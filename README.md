@@ -52,9 +52,6 @@ Follow [Anil Chandra Naidu Matcha](https://twitter.com/matchaman11) & [Ankur Sin
 
 5. Now run any query on your data. Data querying is slow and thus wait for sometime
 
-## Support
-
-Join our discord <https://discord.gg/A6EzvsKX4u> to get support
 
 ## Data
 
